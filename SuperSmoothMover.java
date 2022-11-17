@@ -25,7 +25,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, and Greenfoot)
  * @author Michael Kolling
  * @author Neil Brown
  * 
- * @version 3.0jc -- Modified by Jordan Cohen
+ * @version 3.1.jc -- Modified by Jordan Cohen
  * 
  */
 public abstract class SuperSmoothMover extends Actor
